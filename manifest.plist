@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://www.dropbox.com/scl/fi/4iyfhmmi7e7sz6lxbvwoe/AkbarsProject.ipa</string>
+					<string>https://github.com/workOrganizatia/IOSFiles/blob/main/AkbarsProject.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://www.dropbox.com/scl/fi/4c9wds02nfbz7i6gjdjho/play_store_57.png</string>
+					<string>https://github.com/workOrganizatia/IOSFiles/blob/main/play_store_57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://www.dropbox.com/scl/fi/csd8fmwrczyn6xfh1ce7o/play_store_512.png</string>
+					<string>https://github.com/workOrganizatia/IOSFiles/blob/main/play_store_512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
