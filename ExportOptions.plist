@@ -9,11 +9,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://github.com/workOrganizatia/IOSFiles/blob/main/AkbarsProject.ipa</string>
+		<string>https://workorganizatia.github.io/IOSFiles/AkbarsProject.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://github.com/workOrganizatia/IOSFiles/blob/main/play_store_57.png</string>
+		<string>https://workorganizatia.github.io/IOSFiles/play_store_57.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://github.com/workOrganizatia/IOSFiles/blob/main/play_store_512.png</string>
+		<string>https://workorganizatia.github.io/IOSFiles/play_store_512.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
