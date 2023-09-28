@@ -16,7 +16,7 @@
 		<string>https://workorganizatia.github.io/IOSFiles/play_store_512.png</string>
 	</dict>
 	<key>method</key>
-	<string>ad-hoc</string>
+	<string>development</string>
 	<key>signingStyle</key>
 	<string>automatic</string>
 	<key>stripSwiftSymbols</key>
