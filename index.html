@@ -1,0 +1,51 @@
+<html>
+<head>
+  <meta charset="utf-8">
+<title>My Ad-Hoc Distribution Site</title>
+<style>
+    li{font-size:60pt margin:20px 0}
+</style>
+<meta name="viewport" content="width=device-width" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+    
+     <script type="text/javascript">
+  window.addEventListener('click', filter, false)
+  function filter(e){
+    if (e.target.tagName === 'A'){ // провека что кликнули на ссылку
+      console.log(e.target.href);  // получаем URL адрес ссылки
+      //e.preventDefault();          // отменяем переход 
+         
+      /*  реализуете свою логику  */
+
+      //window.location.href = e.target.href; // переходите по ссылке
+    
+         
+//        const httpRequest = new XMLHttpRequest();
+//        try
+//        {
+//             httpRequest.open("GET", e.target.href, false);
+//             httpRequest.send();
+//        }
+//        catch (error)
+//        {	 
+//
+//             alert(error.message);
+//        }       
+    }
+  }
+ </script>
+    
+</head>
+<body>
+    <ul>
+        <li><a href="itms-services://?action=download-manifest&url=https://192.168.137.41/manifest.plist">
+                    Установить2 мое приложение MyApp1</a></li>
+        <li><a href="itms-services://?action=download-manifest&url=https://192.168.137.41/Test.plist">
+                    Установить мое другое приложение MyApp2</a></li>
+        <li><a href="itms-services://?action=download-manifest&url=https://www.dropbox.com/scl/fi/mvgp9ucwyx32y59q6ible/manifest.plist">
+                    Установить мое другое приложение MyApp3</a></li>
+    </ul>
+</body>
+</html>
+
+https://www.dropbox.com/scl/fi/6x0efsdurvhz0w2hqvwjw/index.html
