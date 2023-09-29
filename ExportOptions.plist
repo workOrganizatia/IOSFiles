@@ -16,14 +16,14 @@
 		<string>https://workorganizatia.github.io/IOSFiles/play_store_512.png</string>
 	</dict>
 	<key>method</key>
-	<string>ad-hoc</string>
+	<string>development</string>
 	<key>provisioningProfiles</key>
 	<dict>
 		<key>ru.akbarsmed</key>
-		<string>AdHocDistributeProfile</string>
+		<string>IOSDevelopProfile</string>
 	</dict>
 	<key>signingCertificate</key>
-	<string>Apple Distribution</string>
+	<string>152F5E0A83BD4FD328C841BE8356AD01A08F15A4</string>
 	<key>signingStyle</key>
 	<string>manual</string>
 	<key>stripSwiftSymbols</key>
