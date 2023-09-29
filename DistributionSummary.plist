@@ -14,11 +14,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>152F5E0A83BD4FD328C841BE8356AD01A08F15A4</string>
+				<string>EB317A52F1F1EB7E6FEACCF511AA232A9A6FE97E</string>
 				<key>dateExpires</key>
-				<string>26.09.2024</string>
+				<string>27.09.2024</string>
 				<key>type</key>
-				<string>Apple Development</string>
+				<string>Apple Distribution</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -32,11 +32,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>152F5E0A83BD4FD328C841BE8356AD01A08F15A4</string>
+						<string>EB317A52F1F1EB7E6FEACCF511AA232A9A6FE97E</string>
 						<key>dateExpires</key>
-						<string>26.09.2024</string>
+						<string>27.09.2024</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>OpenSSL.framework</string>
@@ -60,11 +60,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>152F5E0A83BD4FD328C841BE8356AD01A08F15A4</string>
+						<string>EB317A52F1F1EB7E6FEACCF511AA232A9A6FE97E</string>
 						<key>dateExpires</key>
-						<string>26.09.2024</string>
+						<string>27.09.2024</string>
 						<key>type</key>
-						<string>Apple Development</string>
+						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>double-conversion.framework</string>
@@ -84,22 +84,22 @@
 				<key>application-identifier</key>
 				<string>K48PL762Q8.ru.akbarsmed</string>
 				<key>aps-environment</key>
-				<string>development</string>
+				<string>production</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>K48PL762Q8</string>
 				<key>get-task-allow</key>
-				<true/>
+				<false/>
 			</dict>
 			<key>name</key>
 			<string>AkbarsProject.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>60412e6c-2c61-4af0-b5d7-1b5407b62927</string>
+				<string>5f5a7d68-b0d0-4131-91d5-6c6c3a2cc4af</string>
 				<key>dateExpires</key>
-				<string>26.09.2024</string>
+				<string>27.09.2024</string>
 				<key>name</key>
-				<string>iOS Team Provisioning Profile: ru.akbarsmed</string>
+				<string>AdHocDistributeProfile</string>
 			</dict>
 			<key>team</key>
 			<dict>
